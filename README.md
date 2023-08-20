@@ -19,7 +19,7 @@ Este projeto foi desenvolvido como parte de um desafio extra do Módulo 1 de um 
 
 ## Autores
 
-Luciana Nunes
-Wdson Danrlei
+[Luciana Nunes](https://www.linkedin.com/in/luhonunes)
+[Wdson Danrlei](https://www.linkedin.com/in/wdson-amado)
 
 
